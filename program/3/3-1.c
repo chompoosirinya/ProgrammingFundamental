@@ -11,7 +11,7 @@ int main(){
     
     printf("a ^ n = %.0f", pow(a, n));
     
-    return 0;
+    return 0;   
     
 }
 
